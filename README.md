@@ -7,4 +7,4 @@ Collection of tutorials, documentation, code examples, and projects for GCI with
 
 Feel free to browse around this repository and look at some cool things to do with Tensorflow. Learn more about Tensorflow [here](https://www.tensorflow.org/learn) and find the documentation [here](https://www.tensorflow.org/api_docs/python/tf). If you have any comments/questions feel free to send me an email or open up an Issue or a Pull Request.
 
-William Zhang (WZHANG)
+Written by: William Zhang (WZHANG)
