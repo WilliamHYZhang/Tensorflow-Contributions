@@ -9,4 +9,4 @@ Most of my work with GCI was done on GitHub through PRs, Reviews, Issues, and ot
 
 Feel free to browse around this repository and look at some cool things to do with Tensorflow. Learn more about Tensorflow [here](https://www.tensorflow.org/learn) and find the documentation [here](https://www.tensorflow.org/api_docs/python/tf). If you have any comments/questions feel free to send me an email or open up an Issue or a Pull Request.
 
-Written by: William Zhang (WZHANG on the Google Code-in Tensorflow Global Leaderboard)
+Written by: William Zhang (WZHANG on the GCI Tensorflow Leaderboard)
