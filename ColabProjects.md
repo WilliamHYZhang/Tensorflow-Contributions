@@ -1,4 +1,4 @@
-# Tutorials
+# Projects
 
 Google Colab notebooks are a great way to share your code with others and comes with built in support for Tensorflow. Here are some cool projects I developed that might interest you while coding with Tensorflow. Enjoy!
 
