@@ -13,3 +13,7 @@ Google Colab notebooks are a great way to share your code with others and comes 
 - Image Classification using TF 2.0:
 
   [Here's](https://colab.research.google.com/drive/195AtRTI6-vn6Vat-55PAd4BHx2sYRDbc) a project exploring transfer learning on the Fashion MNIST [dataset](https://github.com/zalandoresearch/fashion-mnist)
+
+- Animated progress bar in `tf.keras`:
+
+  [Here's](https://colab.research.google.com/drive/1T9NrB9yDghmPj6ljkrGDzoNXDBPzO_1g) a neat little project coding up a progress bar in `tf.keras`.
