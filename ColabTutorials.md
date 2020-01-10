@@ -21,3 +21,7 @@ Google Colab notebooks are a great way to share your code with others and comes 
 - Visualization of activation heatmaps in `tf.keras`:
 
   [Here's](https://colab.research.google.com/drive/1PF6tVF0uX8UcMoRfSBauPltSJdxHVFIL) a tutorial on how to overal heat activation maps using `tf.keras` with a way to obtain these images without the need for any more local/GDrive space with some cool cv2 tricks.
+  
+- S4TF and SwiftPlot:
+
+  [Here's](https://github.com/WilliamHYZhang/swiftplot/blob/notebook_addition/Notebooks/Machine%20Learning%20with%20Swift%20for%20TensorFlow%20and%20SwiftPlot.ipynb) a really cool native Swift ML tutorial that uses S4TF and SwiftPlot for data visualization.
