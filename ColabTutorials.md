@@ -13,3 +13,7 @@ Google Colab notebooks are a great way to share your code with others and comes 
 - Analyzing ```tf.keras``` vs ```tf.estimator```:
 
   [Here's](https://colab.research.google.com/drive/1QrIbk12DPl5IDdIL56jYN5LyjRbS3sEw) a tutorial that I wrote to examine training models using ```tf.keras``` compared to using ```tf.estimator```.
+
+- ALBERT with TF Hub:
+
+  [Here's](https://colab.research.google.com/drive/10obw7iPySglC2fWjLDVhzDVA_ULFx2S2) a demonstration and code run-through of how to set up and use ALBERT with TF Hub.
