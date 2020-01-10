@@ -10,6 +10,6 @@ Google Colab notebooks are a great way to share your code with others and comes 
 
   [Here's](https://colab.research.google.com/drive/1jGHn0ibHjKnwgvjIogltnPTvJ5pp16kx) a project demonstrating ALBERT, RoBERTa, and DistilBERT models using TF 2.0 + `transformers`.
   
-- Image Classification using TF 2.0
+- Image Classification using TF 2.0:
 
   [Here's](https://colab.research.google.com/drive/195AtRTI6-vn6Vat-55PAd4BHx2sYRDbc) a project exploring transfer learning on the Fashion MNIST [dataset](https://github.com/zalandoresearch/fashion-mnist)
