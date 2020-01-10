@@ -17,3 +17,7 @@ Google Colab notebooks are a great way to share your code with others and comes 
 - ALBERT with TF Hub:
 
   [Here's](https://colab.research.google.com/drive/10obw7iPySglC2fWjLDVhzDVA_ULFx2S2) a demonstration and code run-through of how to set up and use ALBERT with TF Hub.
+
+- Visualization of activation heatmaps in `tf.keras`:
+
+  [Here's](https://colab.research.google.com/drive/1PF6tVF0uX8UcMoRfSBauPltSJdxHVFIL) a tutorial on how to overal heat activation maps using `tf.keras` with a way to obtain these images without the need for any more local/GDrive space with some cool cv2 tricks.
