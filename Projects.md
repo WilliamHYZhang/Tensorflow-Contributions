@@ -1,6 +1,6 @@
 # Projects
 
-Google Colab notebooks are a great way to share your code with others and comes with built in support for Tensorflow. Here are some cool projects I developed that might interest you while coding with Tensorflow. Enjoy!
+Here are some cool projects I developed that might interest you while coding with Tensorflow. Enjoy!
 
 - Detecting Lung Cancer with UCI Dataset:
 
@@ -17,3 +17,7 @@ Google Colab notebooks are a great way to share your code with others and comes 
 - Animated progress bar in `tf.keras`:
 
   [Here's](https://colab.research.google.com/drive/1T9NrB9yDghmPj6ljkrGDzoNXDBPzO_1g) a neat little project coding up a progress bar in `tf.keras`.
+
+- SeeFood:
+
+  [Here's](https://github.com/WilliamHYZhang/SeeFood) a cool Kotlin for Android with TFLite app inspired by HBO's Silicon Valley :heart:
