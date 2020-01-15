@@ -2,7 +2,7 @@
   <img src="https://www.tensorflow.org/images/tf_logo_social.png">
 </div>
 
-# Tensorflow-Projects
+# Tensorflow-Contributions
 Collection of tutorials, documentation, code examples, and more for GCI with Tensorflow 2019.
 
 To reduce plagarism at the request of my mentors, during the contest period this repository will be private, and I'll make it public when it ends.
