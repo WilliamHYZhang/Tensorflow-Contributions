@@ -15,7 +15,7 @@ I also created some issues that I helped find/solve.
 - [SwiftPlot](https://github.com/KarthikRIyer/swiftplot/issues/WilliamHYZhang)
 - [TensorFlow Datasets](https://github.com/tensorflow/datasets/issues/WilliamHYZhang)
 
-## Code Review
+## Code Review / Discussion
 I really enjoyed helping my fellow GCI peers out whenever I could.
 - [SwiftPlot](https://github.com/KarthikRIyer/swiftplot/pulls?utf8=%E2%9C%93&q=commenter%3AWilliamHYZhang+-author%3AWilliamHYZhang)
 - [TensorFlow Core](https://github.com/tensorflow/tensorflow/pulls?utf8=%E2%9C%93&q=commenter%3AWilliamHYZhang+-author%3AWilliamHYZhang)
