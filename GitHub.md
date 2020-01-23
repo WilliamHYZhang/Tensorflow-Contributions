@@ -9,6 +9,7 @@ Pull Requests are my most direct contributions to TensorFlow.
 - [TensorFlow Datasets](https://github.com/tensorflow/datasets/pulls/WilliamHYZhang)
 - [TensorFlow Examples](https://github.com/tensorflow/examples/pulls/WilliamHYZhang)
 - [Swift Jupyter](https://github.com/google/swift-jupyter/pulls/WilliamHYZhang)
+- [Swift-Models](https://github.com/tensorflow/swift-models/pulls/WilliamHYZhang)
 
 ## Issues
 I also created some issues that I helped find/solve.
@@ -21,3 +22,4 @@ I really enjoyed helping my fellow GCI peers out whenever I could.
 - [TensorFlow Core](https://github.com/tensorflow/tensorflow/pulls?utf8=%E2%9C%93&q=commenter%3AWilliamHYZhang+-author%3AWilliamHYZhang)
  - [TensorFlow Datasets](https://github.com/tensorflow/datasets/pulls?utf8=%E2%9C%93&q=commenter%3AWilliamHYZhang+-author%3AWilliamHYZhang)
  - [TensorFlow Examples](https://github.com/tensorflow/examples/pulls?utf8=%E2%9C%93&q=commenter%3AWilliamHYZhang+-author%3AWilliamHYZhang)
+ - [Swift-Models](https://github.com/tensorflow/swift-models/pulls?utf8=%E2%9C%93&q=commenter%3AWilliamHYZhang+-author%3AWilliamHYZhang)
