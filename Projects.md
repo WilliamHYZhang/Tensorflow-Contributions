@@ -22,4 +22,6 @@ Here are some cool projects I developed that might interest you while coding wit
 
   [Here's](https://github.com/WilliamHYZhang/SeeFood) a cool Kotlin for Android with TFLite app inspired by HBO's Silicon Valley :heart:
 
-- [Here's](https://docs.google.com/document/d/1OQkNbZUXlhBwqNQIRdPHMbr_HPv-f_ocytfu17H0StI/edit?usp=sharing) a really cool project covering image augmentation in Swift and Python. This was also my last GCI task :(
+- S4TF Image Classification with Data Augmentation:
+  
+  [Here's](https://docs.google.com/document/d/1OQkNbZUXlhBwqNQIRdPHMbr_HPv-f_ocytfu17H0StI/edit?usp=sharing) a really cool project covering image augmentation in Swift and Python. This was also my last GCI task :(
