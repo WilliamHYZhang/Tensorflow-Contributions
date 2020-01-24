@@ -39,4 +39,4 @@ Brennan Saeta:
 
 The S5TF team (myself and fellow GCI competitor Rick Wierenga) has recognized this and are currently actively working on developing the foundations for a new datasets API for using with Swift for TensorFlow. The skeletal api structure has already been built (based off of TFDS), with the implementation of MNIST almost complete. Check it out [here](https://github.com/s5tf-team/datasets).
 
-The S5TF team also has a great [example notebook](https://github.com/s5tf-team/examples) in lieu of their own `S5TFDatasets` API. The notebook demonstrates how to take these datasets, load them in Swift, and with a little coaxing convert them from `PythonObject`s into usable `Tensor`s that you can pass into the model.
+The S5TF team also has a great [example notebook](https://github.com/s5tf-team/examples) in lieu of their own `S5TFDatasets` API. The notebook demonstrates how to take TFDS datasets, load them in Swift through Python interoperability, and with a little coaxing convert them from `PythonObject`s into usable `Tensor`s that you can pass into the model.
