@@ -4,7 +4,7 @@ Wow, what a ride this contest was. I'm really happy that I got the chance to com
 
 
 ## Favorite Moments
-Here is a small compilation of my most favorite moments from the contest
+Here is a small compilation of my most favorite moments from the contest.
 
 I really appreciated it when I received an email personally thanking me for contributions on behalf of TFDS from a maintainer of the library. Thank you Mr. Michalski for your nice letter!
 ```text
