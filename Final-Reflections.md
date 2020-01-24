@@ -27,7 +27,9 @@ Working with [SwiftPlot](https://github.com/KarthikRIyer/swiftplot) during the c
 
 I really enjoyed working with Android development for the first time, and unleashing my creativity on my [SeeFood](https://github.com/WilliamHYZhang/SeeFood) app based off of Silicon Valley :heart:
 
-Finally, I'm really excited to continue with [S5TF Team](https://github.com/s5tf-team), a new organization that Rick and I created.
+I liked being able to learn new things and potentially impact others through the creation of my many notebook tutorials and projects as well.
+
+Finally, I'm really excited to continue with [S5TF Team](https://github.com/s5tf-team), a new organization that Rick and I created for some cool things/features with Swift for TensorFlow.
 
 ## Thank You
 
