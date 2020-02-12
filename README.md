@@ -9,4 +9,4 @@ To reduce plagarism at the request of my mentors, during the contest period this
 
 Feel free to browse around this repository and look at some cool things to do with Tensorflow. Learn more about Tensorflow [here](https://www.tensorflow.org/learn) and find the documentation [here](https://www.tensorflow.org/api_docs/python/tf). If you have any comments/questions feel free to send me an email or open up an Issue or a Pull Request.
 
-Written by: William Zhang (WZHANG on the GCI Tensorflow Leaderboard)
+Written by: William Zhang (WZHANG on the GCI Tensorflow Leaderboard), Google Code-in 2019 Grand Prize Winner
